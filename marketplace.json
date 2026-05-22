@@ -2,7 +2,7 @@
   "label": "Report Table",
   "category_label": "Plug-ins",
   "branding": {
-    "image_uri": "https://marketplace-api.looker.com/visualization-screenshots/report_table_icon.png",
+    "image_uri": "https://static-a.cdn.looker.app/marketplace/visualization-screenshots/report_table_icon.png",
     "tagline": "Use the Report Table to create easy to read financial reports."
   },
     "constants": {
